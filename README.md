@@ -11,8 +11,6 @@ In this project, I performed a complete end-to-end data cleaning workflow includ
 * Removing duplicates
 * Converting datatypes
 * Cleaning string formatting and extra spaces
-* Feature engineering
-* Data validation
 * Exporting a cleaned CSV dataset
 
 The goal of this project is to demonstrate practical **data preprocessing techniques** used in real-world Data Science and Data Analytics projects.
