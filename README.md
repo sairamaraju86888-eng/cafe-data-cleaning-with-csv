@@ -10,7 +10,7 @@ In this project, I performed a complete end-to-end data cleaning workflow includ
 * Replacing invalid values (`ERROR`, `UNKNOWN`)
 * Removing duplicates
 * Converting datatypes
-* Cleaning string formatting and extra spaces
+* Cleaning
 * Feature engineering
 * Data validation
 * Exporting a cleaned CSV dataset
